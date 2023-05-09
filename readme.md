@@ -1,4 +1,4 @@
-## To install all the required dependecies
+## TESTING To install all the required dependecies
 
 ```
 npm install
